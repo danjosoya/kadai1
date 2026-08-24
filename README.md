@@ -1,1 +1,14 @@
-# kadai1
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 140015" src="https://github.com/user-attachments/assets/a5723378-be53-491b-a8c0-56f7b3378547" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 140053" src="https://github.com/user-attachments/assets/7c9ffd8a-fb6f-4309-810e-f3a3c12263ba" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 140111" src="https://github.com/user-attachments/assets/f50b3436-3fca-421d-a67a-c58e883c9a36" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 140225" src="https://github.com/user-attachments/assets/506f5bd4-ed2f-48c1-b1c4-c57e62b21171" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 140238" src="https://github.com/user-attachments/assets/d1310383-4071-4173-81a7-5a77b27ea26b" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 140343" src="https://github.com/user-attachments/assets/0ee23105-c06c-4a7b-91dc-5e166e5e7f91" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 141745" src="https://github.com/user-attachments/assets/3eb515f3-7f6c-4f85-9517-63092c4a877d" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 141815" src="https://github.com/user-attachments/assets/b4f82fd6-edf8-4470-bcf3-3e79c624bb34" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 142622" src="https://github.com/user-attachments/assets/70f1570a-1b6c-4ecf-aa5f-bb2a7e23ffe7" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 142635" src="https://github.com/user-attachments/assets/9dcc7cf2-555e-4d18-b7f3-f09793bb89e2" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 142648" src="https://github.com/user-attachments/assets/49fab07c-6fcb-44d7-8ca1-3d46ea733b6e" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 143115" src="https://github.com/user-attachments/assets/25b7fdad-db19-4b06-8dd8-d4bbc539b7d8" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 143142" src="https://github.com/user-attachments/assets/9ef98126-5eb4-4843-8b9a-75ec863227e1" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 143158" src="https://github.com/user-attachments/assets/207df30a-86d3-4b35-92ce-764477a21f81" />
