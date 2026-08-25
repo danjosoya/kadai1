@@ -46,6 +46,7 @@ $ git push origin main
 <img width="1920" height="1032" alt="スクリーンショット 2026-08-24 140455" src="https://github.com/user-attachments/assets/0613fc45-953b-4f19-9775-f6126b036ddd" />
 
 ### 2. Bがリポジトリをcloneし、作業ブランチを作成。index.htmlを編集してPushし、Aへプルリクエストを出す
+
 - Bがリポジトリをclone -> 作業ブランチを作成 -> index.htmlを編集 -> Push
 ```bash
 $ git clone https://github.com/Aのユーザー名/kadai1.git
@@ -98,7 +99,7 @@ $ git push origin tejun4
 ### 5. Bがローカルのmainブランチを最新化（pull）し、作業ブランチを作成。stylesheet.cssを追加してAへプルリクエストを出す。
 
 - Bがローカルのmainブランチを最新化（pull） -> 作業ブランチを作成 -> stylesheet.cssを作成 -> Push
-- 
+
 ```bash
 $ git pull origin main
 $ git switch -c tejun5
